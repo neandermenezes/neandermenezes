@@ -8,9 +8,11 @@ Some of my hobbies:
 - Playing guitar and singing
 
 
+
+Education:
 - 🔭 Computer Engineering student - UNINTER
 - 🌱 Trybe web development student
-- 📫 e-mail: neander2801@gmail.com
+
 
 <div>
   <a href="https://github.com/neandermenezes">
