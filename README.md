@@ -1,6 +1,12 @@
 ### Hi there, I'm NeanderMenezes 👋
 
-I'm a passionate problem solver, and lover of technoplogy. I'm currently studying web development at Trybe, university graduation is currently on hold (9th semester of computer engineering) so I can focus entirely on programming and my career.
+I'm a passionate problem solver, and lover of technology. I'm currently studying web development at Trybe, university graduation is currently on hold (9th semester of computer engineering) so I can focus entirely on programming and my career.
+
+Some of my hobbies: 
+- Reading
+- Exercising (Gym and Pilates)
+- Playing guitar and singing
+
 
 - 🔭 Computer Engineering student - UNINTER
 - 🌱 Trybe web development student
