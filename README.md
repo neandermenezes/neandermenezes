@@ -10,7 +10,7 @@ I'm a passionate problem solver, and lover of technology. I'm currently studying
 * 🖥️  See my portfolio at [https://neander-portfolio.vercel.app/](http://https://neander-portfolio.vercel.app/)
 * ✉️  You can contact me at [neander2801@gmail.com](mailto:neander2801@gmail.com)
 * 🧠  I'm learning Java, Typescript, OOP
-* ⚡  My hobbies include: reading, pilates, playing guitar, singing and reading.
+* ⚡  My hobbies include: exercising, pilates, playing guitar, singing and reading.
 
 ### Skills
 
