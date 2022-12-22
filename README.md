@@ -4,13 +4,13 @@ Hi 👋 My name is Neander Menezes!
 Software engineer, computer engineering student.
 ------------------------------------------------
 
-I'm a passionate problem solver, and lover of technology. I'm currently studying web development at Trybe, university graduation is currently on hold (9th semester of computer engineering) so I can focus entirely on programming and my career.
+Software engineer with current focus on golang, databases and architecture. 
+9th semester student of computer engineer at UNINTER.
 
-* 🌍  I'm based in São Gabriel, RS
-* 🖥️  See my portfolio at [https://neander-portfolio.vercel.app/](http://https://neander-portfolio.vercel.app/)
+Professional experience with go, grpc, postgres, docker, kubernetes in a crypto exchange.
+
+* 🌍  I'm based in Barros Cassal, RS
 * ✉️  You can contact me at [neander2801@gmail.com](mailto:neander2801@gmail.com)
-* 🧠  I'm learning Java, Typescript, OOP
-* ⚡  My hobbies include: exercising, pilates, playing guitar, singing and reading.
 
 ### Skills
 
