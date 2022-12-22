@@ -7,7 +7,7 @@ Software engineer, computer engineering student.
 Software engineer with current focus on golang, databases and architecture. 
 9th semester student of computer engineer at UNINTER.
 
-Professional experience with go, grpc, postgres, docker, kubernetes in a crypto exchange.
+Professional experience with go, grpc, postgres, docker and kubernetes in a crypto exchange.
 
 * 🌍  I'm based in Barros Cassal, RS
 * ✉️  You can contact me at [neander2801@gmail.com](mailto:neander2801@gmail.com)
