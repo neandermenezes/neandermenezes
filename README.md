@@ -4,12 +4,11 @@ Hi 👋 My name is Neander Menezes!
 Software engineer, computer engineering student.
 ------------------------------------------------
 
-Software engineer with current focus on golang, databases and architecture. 
-9th semester student of computer engineer at UNINTER.
-
+Computer engineer graduate, currently working on my final paper with the subject being spam detection in e-mails with machine learning.
 Professional experience with go, grpc, postgres, docker and kubernetes in a crypto exchange.
+Self studying computer science through https://teachyourselfcs.com/ by Oz Nova (https://twitter.com/oznova_) and Myles Byrne (https://twitter.com/quackingduck).
 
-* 🌍  I'm based in Barros Cassal, RS
+* 🌍  São Gabriel, RS, Brazil
 * ✉️  You can contact me at [neander2801@gmail.com](mailto:neander2801@gmail.com)
 
 ### Skills
